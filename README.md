@@ -12,6 +12,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://faisaljaved.pro">
+    <img src="https://skillicons.dev/icons?i=wordpress,androidstudio&theme=light&perline=2" />
+  </a>
+</p>
+
+
 ###
 ---
 <h3 align="center"> <b>I'm Faisal Javed. I live in Pakistan, where I help businesses build the future with WordPress.</b></h3>
@@ -40,8 +47,10 @@
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white" />
 
 </details>
 
