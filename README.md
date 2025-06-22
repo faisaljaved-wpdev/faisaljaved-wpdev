@@ -45,7 +45,7 @@
 
 | Name                 | A short summary                              | Link |
 | -------------------- | -------------------------------------------- | --------- |
-| Personal Portfolio    | My personal portfolio website built with WordPress | [faisaljaved.pro](https://faisaljaved.pro) |
+| Personal Portfolio    | My personal portfolio website  | [faisaljaved.pro](https://faisaljaved.pro) |
 
 </details>
 
@@ -67,6 +67,19 @@
 <div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/faisalwpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faisalwpdev" height="30" width="40" /></a>
+
+<a href="https://fb.com/faisalwpdev" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faisalwpdev" height="30" width="40" />
+</a>
+
+<a href="https://whatsapp.com/channel/0029VaZvSNNKGGGANLZgPG1s" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Channel" height="30" width="40" />
+</a>
+
+<a href="https://t.me/FaisalWpDev" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
+</a>
+
 </p>
 </div>
+
