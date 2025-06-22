@@ -16,10 +16,15 @@
 ---
 <h3 align="center"> <b>I'm Faisal Javed. I live in Pakistan, where I help businesses build the future with WordPress.</b></h3>
 
-<p align="center">
-  I am a passionate WordPress developer focused on building responsive, SEO-friendly, and secure websites tailored to client needs. My expertise lies in creating fast, scalable solutions for businesses. All of my projects can be found at <a href="https://faisaljaved.pro">faisaljaved.pro</a>.<br><br>
-  📫 How to reach me: <strong>info@faisaljaved.pro</strong>
+<p align="center" style="font-family: Righteous, sans-serif; font-size: 16px;">
+  <i>I am a self-driven, career-oriented WordPress developer focused on building responsive, SEO-friendly, and secure websites tailored to client needs. My expertise lies in creating fast, scalable digital solutions that empower businesses to grow online. I primarily work with technologies like PHP, JavaScript, HTML, CSS, and Firebase to deliver custom WordPress solutions.</i><br><br>
+  <i>I strongly believe in continuous learning and always strive to enhance my skills and stay updated with the latest web technologies to provide the best results for my clients.</i><br><br>
+  <i>In addition to my WordPress development expertise, I am also experienced in speed optimization, WooCommerce solutions, and creating user-friendly interfaces. I have a passion for solving complex web problems and delivering polished, professional websites.</i><br><br>
+  <i>I'm always ready for collaboration and open to working on innovative projects that create a positive impact — whether it's for business growth, education, or digital transformation. I work globally and welcome opportunities from clients and teams across the world to bring ideas to life.</i><br><br>
+  <i>📫 <strong>How to reach me:</strong> info@faisaljaved.pro</i><br>
+  <i>🌐 <strong>My Portfolio:</strong> <a href="https://faisaljaved.pro" target="_blank">faisaljaved.pro</a></i>
 </p>
+
 
 ###
 
@@ -29,7 +34,7 @@
 ## Experience
 - 👨‍💻 **WordPress Developer**
 📍 Freelance / Online\
-🔗 All projects: [https://faisaljaved.pro](https://faisaljaved.pro)
+🔗My projects: [faisaljaved.pro/my_projects](https://www.faisaljaved.pro/my_projects)
 
 ## Skills
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
@@ -68,7 +73,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
-<a href="https://fb.com/faisalwpdev" target="blank">
+<a href="https://web.facebook.com/FaisalWpDeve" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faisalwpdev" height="30" width="40" />
 </a>
 
